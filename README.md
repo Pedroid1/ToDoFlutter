@@ -8,7 +8,7 @@
 
 <p align="center">  
 
-⭐ Esse é um projeto feito através de uma vídeo aula para iniciar o desenvolvimento com Flutter.
+⭐ Esse é um simples projeto para validar meu conhecimento inicial no desenvolvimento com Flutter.
 </p>
 
 </br>
